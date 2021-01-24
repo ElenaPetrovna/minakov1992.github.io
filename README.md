@@ -10,12 +10,12 @@
 
 
 ### [*CRM_Битирикс24*](CRM1.md)
-### [*CRM Мегаплан*](CRM2.md)
-### [*CRM Бизнес.Ру (Класс365)*](CRM3.md)
-### [*RetailCRM*](CRM4.md)
-### [*CRM VirtualPOS*](CRM5.md)
-### [*CRM 1С:Розница 8*](CRM6.md)
-### [*CRM RS.SCM*](CRM7.md)
-### [*CRM SalesPlatform*](CRM8.md)
-### [*CRM EKAM*](CRM9.md)
-### [*CRM МойСклад*](CRM10.md)
+### [*CRM Мегаплан*]
+### [*CRM Бизнес.Ру (Класс365)*]
+### [*RetailCRM*]
+### [*CRM VirtualPOS*]
+### [*CRM 1С:Розница 8*]
+### [*CRM RS.SCM*]
+### [*CRM SalesPlatform*]
+### [*CRM EKAM*]
+### [*CRM МойСклад*]
