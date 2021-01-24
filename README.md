@@ -17,5 +17,3 @@
 8. ### [*CRM SalesPlatform*](CRM8.md)
 9. ### [*CRM EKAM*](CRM9.md)
 10. ### [*CRM МойСклад*](CRM10.md)
-
-CMR3.md
