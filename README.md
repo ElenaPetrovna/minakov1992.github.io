@@ -1,3 +1,15 @@
 # Hola, mi nombre es Viacheslau.
 Soy un estudiante del Universidad de Comercio y Economía de Belarús para la Cooperación al Consumidor.
-теперь делаю лабораторную работу №4. пока ничего не понятно. Пытаюсь сделать 10 коммитов в истории. не хватает 2ух. теперь ок!
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   README
+#	modified:   CONTRIBUTING.md
+#
+~
+~
+~
+".git/COMMIT_EDITMSG" 9L, 283C
