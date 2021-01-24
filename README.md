@@ -7,13 +7,13 @@
 - **отзывы клиентов**,
 - **удобство использования**.
 
-1. ### [*CRM_Битирикс24*](CRM1.md)
-2. ### [*CRM Мегаплан*](CRM2.md)
-3. ### [*CRM Бизнес.Ру (Класс365)*](CRM3.md)
-4. ### [*RetailCRM*](CRM4.md)
-5. ### [*CRM VirtualPOS*](CRM5.md)
-6. ### [*CRM 1С:Розница 8*](CRM6.md)
-7. ### [*CRM RS.SCM*](CRM7.md)
-8. ### [*CRM SalesPlatform*](CRM8.md)
-9. ### [*CRM EKAM*](CRM9.md)
-10. ### [*CRM МойСклад*](CRM10.md)
+# 1. [*CRM_Битирикс24*](CRM1.md)
+# 2. [*CRM Мегаплан*](CRM2.md)
+# 3. [*CRM Бизнес.Ру (Класс365)*](CRM3.md)
+# 4. [*RetailCRM*](CRM4.md)
+# 5. [*CRM VirtualPOS*](CRM5.md)
+# 6. [*CRM 1С:Розница 8*](CRM6.md)
+# 7. [*CRM RS.SCM*](CRM7.md)
+# 8. [*CRM SalesPlatform*](CRM8.md)
+# 9. [*CRM EKAM*](CRM9.md)
+# 10. [*CRM МойСклад*](CRM10.md)
