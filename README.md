@@ -2,43 +2,30 @@
 Основные критерии для сравнительного анализа:
 
 -цена,
-
 -условия пользования,
-
 -функционал,
-
 -сфера применения,
-
 -отзывы клиентов,
-
 -удобство использования.
 
-[*CRM_Битирикс24*](CRM1.md)
 
 
-CRM Мегаплан
+## [*CRM_Битирикс24*](CRM1.md)
 
+## [*CRM Мегаплан*](CRM2.md)
 
-CRM Бизнес.Ру (Класс365)
+## [*CRM Бизнес.Ру (Класс365)*](CRM3.md)
 
+## [*RetailCRM*](CRM4.md)
 
-RetailCRM
+## [*CRM VirtualPOS*](CRM5.md)
 
+## [*CRM 1С:Розница 8*](CRM6.md)
 
-CRM VirtualPOS
+## [*CRM RS.SCM*](CRM7.md)
 
+## [*CRM SalesPlatform*](CRM8.md)
 
-CRM 1С:Розница 8
+## [*CRM EKAM*](CRM9.md)
 
-
-CRM RS.SCM
-
-
-CRM SalesPlatform
-
-
-CRM EKAM
-
-
-CRM МойСклад
-
+## [*CRM МойСклад*](CRM10.md)
